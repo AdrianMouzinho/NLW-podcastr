@@ -1,20 +1,17 @@
-# NLW-podcastr
-O podcastr é um app para reprodução de episódios em áudio do seu podcast favorito. O projeto foi desenvolvido durante a NLW 05, evento da Rocketseat.
-
 <h1 align="center">
-  <img alt="podcastr" title="podcastr" src=".github/logo.png" />
+  <img alt="podcastr" title="podcastr" src="http://vpi.meuamigoibl.com.br/assets/img/vpi/user/logo-IBL.png" />
 </h1>
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
+<h1 align="center">
+  Meu amigo IBL
+</h1>
 
- <img src="https://img.shields.io/static/v1?label=NLW&message=05&color=8257E5&labelColor=000000" alt="NLW 05" />
+<p>
+  Você traz seu amigo para a melhor internet banda larga, com um ótimo valor. Garantimos a instalação da pessoa indicada e ela terá a melhor experiência possivel. Agora, tanto você quanto ela, terão o melhor serviço da região. Além de brindes e prêmios!
 </p>
 
-<br>
-
 <p align="center">
-  <img alt="Podcastr" src=".github/podcastr.png" width="100%">
+ <img src="http://vpi.meuamigoibl.com.br/assets/img/vpi/user/logo-vpi/logo.png" alt="Indique seu amigo" />
 </p>
 
 ## ✨ Tecnologias
