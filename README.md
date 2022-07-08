@@ -2,9 +2,13 @@
 
 [<img src="image/capa.png" width="100%" />](https://www.creative-tim.com/live/soft-ui-dashboard-pro-laravel) 
 
-Soft UI Dashboard PRO Laravel combines hundreds of premium Bootstrap 5 frontend components with an out of the box Laravel backend. Everything enhanced by Livewire & Alpine.js. In short, it's the ultimate fullstack resource we coded with [UPDIVISION](https://updivision.com/) to help developers build complex apps faster. 
+Quem nunca consumiu ou adquiriu algo que foi recomendado por alguém, seja um amigo ou familiar? Quem nunca recomendou algo que agradou para as pessoas pessoas próximas? Provavelmente todo mundo, não é mesmo?
 
-The look & feel is inspired by one of the hottest design trends right now, Soft UI. Add in ready-made Laravel CRUDs and one of the best libraries for building dynamic UIs and you
+Sim, provavelmente você já até utiliza essa estratégia, conhecida popularmente como boca a boca. Porém, você sabia que é possível organizar esse tipo de estratégia?
+
+O Marketing de Indicação é simplesmente a forma de organização desse boca a boca que todo mundo tem, porém, não consegue utilizar de forma que traga resultados mensuráveis e com índices incríveis de crescimento.
+
+A VIP (Vendas por Indicação) é um método que consiste em obter novas vendas por indicações feitas pelos seus clientes atuais. A ideia é que quanto mais os seus consumidores estiverem satisfeitos com os produtos ou serviços que você oferece, maior é a probabilidade de recomendarem a sua empresa para as pessoas que conhecem.
 
 ### Social Media
 
