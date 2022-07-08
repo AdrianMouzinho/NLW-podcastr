@@ -10,7 +10,7 @@ VIP (Vendas por Indicação) é simplesmente a forma de organização desse boca
 
 ## Landing Page
 
-Essa é a página inicial do sistema. É aqui que você vai encontrar as informações de e quais as perguntas mais frequentes.
+Esta é a página inicial do sistema. É aqui que você vai encontrar as informações de e quais as perguntas mais frequentes.
 
 No header dessa página você encontra 2 botões: REGULAMENTO e ENTRE PARA INDICAR.
 
@@ -27,8 +27,16 @@ Clicando em REGULAMENTO, você será redirecionado para uma página contendo tod
 Clicando em ENTRE PARA INDICAR, você será redirecionado para a página de login. Se ainda não tiver uma conta, você deverá criar uma nova clicando em REGISTRAR.
 
 <p align="center">
+<img src="image/login.png" width="60%" />
+</p>
+
+<p align="center">
 <img src="image/cadastro.png" width="60%" />
 </p>
+
+## Área do cliente
+
+## Área do operador
 
 ### Redes sociais
 
