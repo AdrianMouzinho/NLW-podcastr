@@ -1,48 +1,41 @@
-<h1 align="center">
-  <img alt="podcastr" title="podcastr" src="http://vpi.meuamigoibl.com.br/assets/img/vpi/user/logo-IBL.png" />
-</h1>
+# [Soft UI Dashboard PRO Laravel](https://soft-ui-dashboard-pro-laravel.creative-tim.com/login)
 
-<h1 align="center">
-  Meu amigo IBL
-</h1>
+![version](https://img.shields.io/badge/version-1.0.0-blue.svg) 
+![license](https://img.shields.io/badge/license-MIT-blue.svg)
+[![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/soft-ui-dashboard-laravel.svg)](https://github.com/creativetimofficial/ct-soft-ui-dashboard-pro-laravel/issues?q=is%3Aopen+is%3Aissue) 
+[![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/soft-ui-dashboard-laravel.svg)](https://github.com/creativetimofficial/ct-soft-ui-dashboard-pro-laravel/issues?q=is%3Aissue+is%3Aclosed)
 
-<p>
-  Você traz seu amigo para a melhor internet banda larga, com um ótimo valor. Garantimos a instalação da pessoa indicada e ela terá a melhor experiência possivel. Agora, tanto você quanto ela, terão o melhor serviço da região. Além de brindes e prêmios!
-</p>
 
-<p align="center">
- <img src="http://vpi.meuamigoibl.com.br/assets/img/vpi/user/logo-vpi/logo.png" alt="Indique seu amigo" />
-</p>
+*Frontend version*: Soft UI Dashboard v1.0.0. More info at https://www.creative-tim.com/product/soft-ui-dashboard-pro-laravel/?ref=sudpl-readme 
 
-## ✨ Tecnologias
+[<img src="https://s3.amazonaws.com/creativetim_bucket/products/493/original/soft-ui-dashboard-pro-laravel-livewire.jpg" width="100%" />](https://www.creative-tim.com/live/soft-ui-dashboard-pro-laravel) 
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Soft UI Dashboard PRO Laravel combines hundreds of premium Bootstrap 5 frontend components with an out of the box Laravel backend. Everything enhanced by Livewire & Alpine.js. In short, it's the ultimate fullstack resource we coded with [UPDIVISION](https://updivision.com/) to help developers build complex apps faster. 
 
-- [React](https://reactjs.org)
-- [Next.js](https://nextjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
+The look & feel is inspired by one of the hottest design trends right now, Soft UI. Add in ready-made Laravel CRUDs and one of the best libraries for building dynamic UIs and you
 
-## 💻 Projeto
+### Social Media
 
-O podcastr é um app para reprodução de episódios em áudio do seu podcast favorito.
+### Creative Tim
+Twitter: <https://twitter.com/CreativeTim?ref=sudpl-readme>
 
-## 🔖 Layout
+Facebook: <https://www.facebook.com/CreativeTim?ref=sudpl-readme>
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/DvlZBy5gE3RHUku4c25e1A/Podcastr-(Copy)?node-id=160%3A2761). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
+Dribbble: <https://dribbble.com/creativetim?ref=sudpl-readme>
 
-## 🚀 Como executar
+Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=sudpl-readme>
 
-- Clone o repositório
-- Instale as dependências com `yarn`
-- Inicie a fake api com `yarn server`
-- Inicie o servidor com `yarn dev`
+### Updivision:
 
-Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
+Twitter: <https://twitter.com/updivision?ref=sudpl-readme>
 
-## 📄 Licença
+Facebook: <https://www.facebook.com/updivision?ref=sudpl-readme>
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Linkedin: <https://www.linkedin.com/company/updivision?ref=sudpl-readme>
 
----
+Updivision Blog: <https://updivision.com/blog/?ref=sudpl-readme>
 
-created with ♥ by Adrian Mouzinho 👋🏻
+## Credits
+
+- [Creative Tim](https://creative-tim.com/?ref=sudl-readme)
+- [UPDIVISION](https://updivision.com)
