@@ -1,4 +1,4 @@
-# [Soft UI Dashboard PRO Laravel](https://soft-ui-dashboard-pro-laravel.creative-tim.com/login)
+# [VPI Indique um amigo IBL](http://vpi.meuamigoibl.com.br/)
 
 [<img src="image/capa.png" width="100%" />](https://www.creative-tim.com/live/soft-ui-dashboard-pro-laravel) 
 
