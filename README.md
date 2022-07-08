@@ -8,6 +8,12 @@ Sim, provavelmente você já até utiliza essa estratégia, conhecida popularmen
 
 VIP (Vendas por Indicação) é simplesmente a forma de organização desse boca a boca, é um método que consiste em obter novas vendas por indicações feitas pelos seus clientes atuais. A ideia é que quanto mais os seus consumidores estiverem satisfeitos com os produtos ou serviços que você oferece, maior é a probabilidade de recomendarem a sua empresa para as pessoas que conhecem.
 
+## Landing Page
+
+Essa é a página inicial do sistema. É aqui que você vai encontrar as informações de e quais as perguntas mais frequentes.
+
+No header dessa página você encontra 2 botões: REGULAMENTO e ENTRE PARA INDICAR. Clicando em REGULAMENTO, você será redirecionado para uma página contendo todas as informações de como funcionará a campanha promocional. Clicando em ENTRE PARA INDICAR, você será redirecionado para a página de login. Se ainda não tiver uma conta, você deverá criar uma nova clicando em REGISTRAR.
+
 ### Redes sociais
 
 ### IBL NET
