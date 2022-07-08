@@ -6,11 +6,9 @@ Quem nunca consumiu ou adquiriu algo que foi recomendado por alguém, seja um am
 
 Sim, provavelmente você já até utiliza essa estratégia, conhecida popularmente como boca a boca. Porém, você sabia que é possível organizar esse tipo de estratégia?
 
-O Marketing de Indicação é simplesmente a forma de organização desse boca a boca que todo mundo tem, porém, não consegue utilizar de forma que traga resultados mensuráveis e com índices incríveis de crescimento.
+VIP (Vendas por Indicação) é simplesmente a forma de organização desse boca a boca, é um método que consiste em obter novas vendas por indicações feitas pelos seus clientes atuais. A ideia é que quanto mais os seus consumidores estiverem satisfeitos com os produtos ou serviços que você oferece, maior é a probabilidade de recomendarem a sua empresa para as pessoas que conhecem.
 
-A VIP (Vendas por Indicação) é um método que consiste em obter novas vendas por indicações feitas pelos seus clientes atuais. A ideia é que quanto mais os seus consumidores estiverem satisfeitos com os produtos ou serviços que você oferece, maior é a probabilidade de recomendarem a sua empresa para as pessoas que conhecem.
-
-### Social Media
+### Redes sociais
 
 ### IBL NET
 Linkedin: <https://www.facebook.com/iblnet/>
