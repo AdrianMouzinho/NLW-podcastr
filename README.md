@@ -35,6 +35,20 @@ Clicando em ENTRE PARA INDICAR, você será redirecionado para a página de logi
 </p>
 
 ## Área do cliente
+Após criar uma conta, você entrará na página de cliente (dashboard-user), mesmo que você seja um operador. Esta página é divida em 3 seções: **Indicar, Visualização Rápida e Visualização Detalhada**.
+
+<p align="center">
+<img src="image/regulamento.png" width="60%" />
+</p>
+
+Em **Indicar**, você poderá: 
+Copiar um link de indicação clicando em COPIAR LINK DE INDICAÇÃO, copiando diretamente o link de será mostrado ou scanneando o QRcode. 
+Indicar um amigo clicando em INDICAR AGORA. Após o clique, aparecerá um formulário para você preencher com o nome, o telefone e a cidade do seu amigo.
+Ver seus tickets clicando em MEUS TICKETS. Após o clique, aparecerá um painel contendo seus tickets.
+
+Em **Visualização Rápida**, você poderá visualizar o total de indicações, o total de efetivados, a quantidade de respostas e a quantidade de contatos.
+
+E em **Visualização Detalhada**, você encontrará as informações detalhadas de cada ticket.
 
 ## Área do operador
 
