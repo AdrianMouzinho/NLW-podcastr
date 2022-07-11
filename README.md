@@ -12,7 +12,7 @@ VIP (Vendas por Indicação) é simplesmente a forma de organização desse boca
 
 Esta é a página inicial da campanha indique um amigo. Entrando nesta página, você encontrará primeiramente um pequeno vídeo que explica como vai ser a promoção. Abaixo do vídeo tem alguns cards indicando porque você deve indicar um amigo. Ainda nesta páginba, você vai encontrar as informações dos prêmios do sorteio e quais as dúvidas mais frequentes.
 
-No header desta página você encontra 2 botões: **REGULAMENTO e ENTRE PARA INDICAR**.
+No header desta página você encontra 2 botões: **REGULAMENTO** e **ENTRE PARA INDICAR**.
 
 <p align="center">
  <img src="landingpage.png" width="60%" />
@@ -24,7 +24,7 @@ Clicando em **REGULAMENTO**, você será redirecionado para uma página contendo
 <img src="regulamento.png" width="60%" />
 </p>
 
-Clicando em **ENTRE PARA INDICAR**, você será redirecionado para a página de login. Se ainda não tiver uma conta, você deverá criar uma nova clicando em REGISTRAR.
+Clicando em **ENTRE PARA INDICAR**, você será redirecionado para a página de login. Se ainda não tiver uma conta, você deverá criar uma nova clicando em **REGISTRAR**.
 
 <p align="center">
 <img src="login.png" width="60%" />
