@@ -69,8 +69,8 @@ E em **Visualização Detalhada**, você encontrará as informações detalhadas
 ### Redes sociais
 
 ### IBL NET
-Linkedin: <https://www.facebook.com/iblnet/>
+Grupo IBL: <https://www.iblnet.com.br/3/>
 
-Facebook: <https://www.facebook.com/CreativeTim?ref=sudpl-readme>
+Linkedin: <https://www.facebook.com/iblnet/>
 
 Instagram: <https://www.instagram.com/iblnet/>
