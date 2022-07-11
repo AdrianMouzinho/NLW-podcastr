@@ -1,6 +1,6 @@
 <h1 align="center"><a href="http://vpi.meuamigoibl.com.br/">VPI Indique um amigo IBL :globe_with_meridians::blue_heart::heart:</a></h1>
 
-<p align="center"><img src="image/capa2.png" width="100%" /></p>
+<p align="center"><img src="image/capa2.png"  alt="Capa da vpi" width="100%" /></p>
 
 Quem nunca consumiu ou adquiriu algo que foi recomendado por alguém, seja um amigo ou familiar? Quem nunca recomendou algo que agradou para as pessoas pessoas próximas? Provavelmente todo mundo, não é mesmo?
 
@@ -15,45 +15,45 @@ Esta é a página inicial da campanha indique um amigo. Entrando nesta página, 
 No header desta página você encontra 2 botões: **REGULAMENTO** e **ENTRE PARA INDICAR**.
 
 <p align="center">
- <img src="landingpage.png" width="60%" />
+ <img src="landingpage.png" alt="Página principal" width="60%" />
 </p>
 
 Clicando em **REGULAMENTO**, você será redirecionado para uma página contendo todas as informações de como funcionará a campanha promocional.
 
 <p align="center">
-<img src="regulamento.png" width="60%" />
+<img src="regulamento.png" alt="alt=""Página de regulamento" width="60%" />
 </p>
 
 Clicando em **ENTRE PARA INDICAR**, você será redirecionado para a página de login. Se ainda não tiver uma conta, você deverá criar uma nova clicando em **REGISTRAR**.
 
 <p align="center">
-<img src="login.png" width="60%" />
+<img src="login.png" alt="Página de login" width="60%" />
 </p>
 
 <p align="center">
-<img src="cadastro.png" width="60%" />
+<img src="cadastro.png" alt="Página de cadastro" width="60%" />
 </p>
 
 ## Área do cliente
 Após criar uma conta, você entrará na página de cliente (dashboard-user), mesmo que você seja um operador. Esta página é divida em 3 seções: **Indicar, Visualização Rápida e Visualização Detalhada**.
 
 <p align="center">
-<img src="image/dashboar-user.png" width="60%" />
+<img src="image/dashboar-user.png" alt="Página de dashboard do usuário" width="60%" />
 </p>
 <p align="center">
-<img src="image/dashboard-user2.png" width="60%" />
+<img src="image/dashboard-user2.png" alt="Página de dashboard do usuário" width="60%" />
 </p>
 
 Em **Indicar**, você poderá: 
 - Copiar um link de indicação clicando em COPIAR LINK DE INDICAÇÃO, copiando diretamente o link de será mostrado ou scanneando o QRcode.
 - Indicar um amigo clicando em INDICAR AGORA. Após o clique, aparecerá um formulário para você preencher com o nome, o telefone e a cidade do seu amigo.
  <p align="center">
-  <img src="image/indique-agora.png" width="60%" />
+  <img src="image/indique-agora.png" alt="Formulário para indicar um amigo" width="60%" />
  </p>
  
 - Ver seus tickets clicando em MEUS TICKETS. Após o clique, aparecerá um painel contendo seus tickets.
  <p align="center">
-  <img src="image/meus-tickets.png" width="60%" />
+  <img src="image/meus-tickets.png" alt="Painel de meus tickets" width="60%" />
  </p>
 
 Em **Visualização Rápida**, você poderá visualizar: 
