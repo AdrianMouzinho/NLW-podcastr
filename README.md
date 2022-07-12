@@ -69,6 +69,7 @@ Em **Visualização Rápida**, você poderá visualizar:
 E em **Visualização Detalhada**, você encontrará as informações detalhadas de cada ticket.
 
 ## Área do operador
+* Gestor
 
 ### Redes sociais
 
