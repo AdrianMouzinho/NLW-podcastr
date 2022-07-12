@@ -45,7 +45,11 @@ Após criar uma conta, você entrará na página de cliente (dashboard-user), me
 </p>
 
 Em **Indicar**, você poderá: 
-- Copiar um link de indicação clicando em COPIAR LINK DE INDICAÇÃO, copiando diretamente o link de será mostrado ou scanneando o QRcode.
+- Copiar um link de indicação clicando em COPIAR LINK DE INDICAÇÃO, copiando diretamente o link de será mostrado ou scanneando o QRcode. Após seu amigo abrir o link, ele precisará preencher um formulário.
+ <p align="center">
+  <img src="image/link-indicacao.png" alt="Página com formulário para indicar um amigo" width="60%" />
+ </p>
+
 - Indicar um amigo clicando em INDICAR AGORA. Após o clique, aparecerá um formulário para você preencher com o nome, o telefone e a cidade do seu amigo.
  <p align="center">
   <img src="image/indique-agora.png" alt="Formulário para indicar um amigo" width="60%" />
