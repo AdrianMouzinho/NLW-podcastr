@@ -69,13 +69,8 @@ Em **Visualização Rápida**, você poderá visualizar:
 E em **Visualização Detalhada**, você encontrará as informações detalhadas de cada ticket.
 
 ## Área do operador
-* Gestor
+### Gestor
 
-### Redes sociais
+### Financeiro
 
-### IBL NET
-Grupo IBL: <https://www.iblnet.com.br/3/>
-
-Linkedin: <https://www.facebook.com/iblnet/>
-
-Instagram: <https://www.instagram.com/iblnet/>
+### Comercial
