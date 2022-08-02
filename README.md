@@ -81,7 +81,7 @@ No painel **Leads para trabalhar**, podemos visualizar todos os leads. Clicando 
 <img src="image/com-editar-lead.png" alt="Painel de meus tickets" width="60%" />
 </p>
 
-Nesta área, o usuário poderá se vincular a lead ou alterar as informações da mesma.
+Nesta área, o usuário poderá se vincular/desvincular a lead, alterar o status dessa lead ou alterar as informações da mesma.
 <p align="center">
 <img src="image/com-editar-status-leads.png" alt="Painel de meus tickets" width="60%" />
 </p>
