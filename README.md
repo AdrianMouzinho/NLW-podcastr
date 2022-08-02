@@ -108,12 +108,20 @@ Nesta área, o usuário poderá alterar o status desse ticket ou ir para a lead 
 </p>
 
 ## Gestor
+Um usuário do grupo gestor terá acesso as seções **Operação** e **Admin** , assim como o grupo financeiro. Além disso, esse grupo terá acesso a seção **Gestão** e a área de **Dashboard**.
 <p align="center">
 <img src="image/gestao.png" alt="Painel de meus tickets" width="60%" />
 </p>
+
+No painel **Todos os Usuarios**, podemos visualizar todos os usuários cadastrados no sistema. Nesta seção, o usuário pode fazer um filtro desses usuários. Além disso, ele poderá editar ou remover um usuário.
+Clicando no botão de editar usuário, abrirá uma painel com todas as informações daquele usuário. Nesta área, o usuário poderá alterar as informações desse usuário.
 <p align="center">
 <img src="image/gestao-editar-usuario.png" alt="Painel de meus tickets" width="60%" />
 </p>
+
+Clicando em **VPI 2022**, o usuário do grupo gestor terá acesso a seção **Dashboard**.
+Em **Dashboard Leads** podemos visualizar um dashboard das leads.
+Em **Dashboard Tickets** podemos visualizar um dashboard dos tickets.
 <p align="center">
 <img src="image/gestao-dash-leads.png" alt="Painel de meus tickets" width="60%" />
 </p>
