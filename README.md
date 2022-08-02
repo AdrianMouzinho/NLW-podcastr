@@ -76,6 +76,7 @@ Um usuário do grupo comercial terá acesso apenas a seção **Operação**.
 </p>
 
 Nesta seção, é possível visualizar todos as leads. Aqui o usuário pode buscar uma lead. O usuário também poderá fazer um filtro das leads vinculadas, não vinculados, ou todos.
+
 No painel **Leads para trabalhar**, podemos visualizar todos os leads. Clicando no botão verde, abrirá uma painel com todas as informações daquela lead.
 <p align="center">
 <img src="image/com-editar-lead.png" alt="Painel de meus tickets" width="60%" />
@@ -96,6 +97,7 @@ Um usuário do grupo financeiro terá acesso a seção **Operação**, assim com
 </p>
 
 Nesta seção, é possível visualizar todos os tickets. O usuário pode fazer um filtro dos tickets.
+
 No painel **Tickets para trabalhar**, podemos visualizar todos os tickets. Clicando no botão verde, abrirá uma painel com todas as informações daquele ticket.
 <p align="center">
 <img src="image/fin-editar-ticket.png" alt="Painel de meus tickets" width="60%" />
@@ -114,12 +116,14 @@ Um usuário do grupo gestor terá acesso as seções **Operação** e **Admin** 
 </p>
 
 No painel **Todos os Usuarios**, podemos visualizar todos os usuários cadastrados no sistema. Nesta seção, o usuário pode fazer um filtro desses usuários. Além disso, ele poderá editar ou remover um usuário.
+
 Clicando no botão de editar usuário, abrirá uma painel com todas as informações daquele usuário. Nesta área, o usuário poderá alterar as informações desse usuário.
 <p align="center">
 <img src="image/gestao-editar-usuario.png" alt="Painel de meus tickets" width="60%" />
 </p>
 
 Clicando em **VPI 2022**, o usuário do grupo gestor terá acesso a seção **Dashboard**.
+
 Em **Dashboard Leads** podemos visualizar um dashboard das leads.
 Em **Dashboard Tickets** podemos visualizar um dashboard dos tickets.
 <p align="center">
