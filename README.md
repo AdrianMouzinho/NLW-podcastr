@@ -84,11 +84,26 @@ E em **Visualização Detalhada**, você encontrará as informações detalhadas
 </p>
  
 ### Financeiro
- <p align="center">
-  <img src="image/meus-tickets.png" alt="Painel de meus tickets" width="60%" />
- </p>
+<p align="center">
+<img src="image/fin-admin.png" alt="Painel de meus tickets" width="60%" />
+</p>
+<p align="center">
+<img src="image/fin-editar-ticket.png" alt="Painel de meus tickets" width="60%" />
+</p>
+<p align="center">
+<img src="image/fin-editar-status-ticket.png" alt="Painel de meus tickets" width="60%" />
+</p>
 
 ### Gestor
- <p align="center">
-  <img src="image/com-operacao.png" alt="Painel de meus tickets" width="60%" />
- </p>
+<p align="center">
+<img src="image/gestao.png" alt="Painel de meus tickets" width="60%" />
+</p>
+<p align="center">
+<img src="image/gestao-editar-usuario.png" alt="Painel de meus tickets" width="60%" />
+</p>
+<p align="center">
+<img src="image/gestao-dash-leads.png" alt="Painel de meus tickets" width="60%" />
+</p>
+<p align="center">
+<img src="image/gestao-dash-ticket.png" alt="Painel de meus tickets" width="60%" />
+</p>
