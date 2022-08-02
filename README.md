@@ -69,8 +69,26 @@ Em **Visualização Rápida**, você poderá visualizar:
 E em **Visualização Detalhada**, você encontrará as informações detalhadas de cada ticket.
 
 ## Área do operador
-### Gestor
-
-### Financeiro
-
 ### Comercial
+<p align="center">
+<img src="image/com-operacao.png" alt="Painel de meus tickets" width="60%" />
+</p>
+<p align="center">
+<img src="image/com-editar-lead.png" alt="Painel de meus tickets" width="60%" />
+</p>
+<p align="center">
+<img src="image/com-editar-status-leads.png" alt="Painel de meus tickets" width="60%" />
+</p>
+<p align="center">
+<img src="image/com-editar-dados.png" alt="Painel de meus tickets" width="60%" />
+</p>
+ 
+### Financeiro
+ <p align="center">
+  <img src="image/meus-tickets.png" alt="Painel de meus tickets" width="60%" />
+ </p>
+
+### Gestor
+ <p align="center">
+  <img src="image/com-operacao.png" alt="Painel de meus tickets" width="60%" />
+ </p>
