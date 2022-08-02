@@ -68,14 +68,20 @@ Em **Visualização Rápida**, você poderá visualizar:
 
 E em **Visualização Detalhada**, você encontrará as informações detalhadas de cada ticket.
 
-## Área do operador
-### Comercial
+# Área do operador
+## Comercial
+Um usuário do grupo comercial terá acesso apenas a seção **Operação**.
 <p align="center">
 <img src="image/com-operacao.png" alt="Painel de meus tickets" width="60%" />
 </p>
+
+Nesta seção, é possível visualizar todos as leads. O usuário pode buscar uma lead . O usuário também poderá fazer um filtro das leads vinculadas, não vinculados, ou todos.
+No painel **Leads para trabalhar**, podemos visualizar todos os leads. Clicando no botão verde, abrirá uma página com todas as informações daquela lead.
 <p align="center">
 <img src="image/com-editar-lead.png" alt="Painel de meus tickets" width="60%" />
 </p>
+
+Nesta área, o usuário poderá se vincular a lead ou alterar as informações da mesma.
 <p align="center">
 <img src="image/com-editar-status-leads.png" alt="Painel de meus tickets" width="60%" />
 </p>
@@ -83,7 +89,7 @@ E em **Visualização Detalhada**, você encontrará as informações detalhadas
 <img src="image/com-editar-dados.png" alt="Painel de meus tickets" width="60%" />
 </p>
  
-### Financeiro
+## Financeiro
 <p align="center">
 <img src="image/fin-admin.png" alt="Painel de meus tickets" width="60%" />
 </p>
@@ -94,7 +100,7 @@ E em **Visualização Detalhada**, você encontrará as informações detalhadas
 <img src="image/fin-editar-status-ticket.png" alt="Painel de meus tickets" width="60%" />
 </p>
 
-### Gestor
+## Gestor
 <p align="center">
 <img src="image/gestao.png" alt="Painel de meus tickets" width="60%" />
 </p>
